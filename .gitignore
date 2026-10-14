@@ -1,0 +1,17 @@
+# Local operating-system and editor files
+desktop.ini
+.DS_Store
+*.lock
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Retain Studio-generated checkpoints, evidence, previews, and diagnostic files locally.
+# Commit only the active experiences and reusable model export from studio/build.
+studio/build/**
+!studio/build/
+!studio/build/MarketWorkshop-v2.rbxlx
+!studio/build/AssetWorkshop.rbxlx
+!studio/build/LunaLanding-AutumnReview.rbxlx
+!studio/build/MarketAssets.rbxmx

@@ -1,0 +1,253 @@
+{
+  "textureMode": "RGBA",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "transparentFraction": 0.5152498881022135,
+  "spriteCount": 24,
+  "checks": [
+    {
+      "id": "pepper_seeds",
+      "regionClear": true,
+      "rect": [
+        37,
+        53,
+        186,
+        203
+      ]
+    },
+    {
+      "id": "carrot_seeds",
+      "regionClear": true,
+      "rect": [
+        292,
+        53,
+        186,
+        203
+      ]
+    },
+    {
+      "id": "lettuce_seeds",
+      "regionClear": true,
+      "rect": [
+        546,
+        53,
+        187,
+        203
+      ]
+    },
+    {
+      "id": "pumpkin_seeds",
+      "regionClear": true,
+      "rect": [
+        802,
+        52,
+        186,
+        204
+      ]
+    },
+    {
+      "id": "grape_seeds",
+      "regionClear": true,
+      "rect": [
+        37,
+        304,
+        186,
+        206
+      ]
+    },
+    {
+      "id": "corn_seeds",
+      "regionClear": true,
+      "rect": [
+        292,
+        304,
+        187,
+        206
+      ]
+    },
+    {
+      "id": "wheat_seeds",
+      "regionClear": true,
+      "rect": [
+        546,
+        304,
+        188,
+        206
+      ]
+    },
+    {
+      "id": "potato_seeds",
+      "regionClear": true,
+      "rect": [
+        802,
+        304,
+        187,
+        206
+      ]
+    },
+    {
+      "id": "pepper_harvest",
+      "regionClear": true,
+      "rect": [
+        45,
+        558,
+        172,
+        205
+      ]
+    },
+    {
+      "id": "carrot_harvest",
+      "regionClear": true,
+      "rect": [
+        298,
+        556,
+        185,
+        210
+      ]
+    },
+    {
+      "id": "lettuce_harvest",
+      "regionClear": true,
+      "rect": [
+        532,
+        569,
+        215,
+        195
+      ]
+    },
+    {
+      "id": "pumpkin_harvest",
+      "regionClear": true,
+      "rect": [
+        792,
+        560,
+        209,
+        204
+      ]
+    },
+    {
+      "id": "grape_harvest",
+      "regionClear": true,
+      "rect": [
+        51,
+        804,
+        175,
+        209
+      ]
+    },
+    {
+      "id": "corn_harvest",
+      "regionClear": true,
+      "rect": [
+        303,
+        800,
+        180,
+        223
+      ]
+    },
+    {
+      "id": "wheat_harvest",
+      "regionClear": true,
+      "rect": [
+        558,
+        795,
+        178,
+        225
+      ]
+    },
+    {
+      "id": "potato_harvest",
+      "regionClear": true,
+      "rect": [
+        790,
+        842,
+        208,
+        166
+      ]
+    },
+    {
+      "id": "shovel",
+      "regionClear": true,
+      "rect": [
+        37,
+        1055,
+        190,
+        210
+      ]
+    },
+    {
+      "id": "watering_can",
+      "regionClear": true,
+      "rect": [
+        265,
+        1068,
+        250,
+        191
+      ]
+    },
+    {
+      "id": "fertilizer_bag",
+      "regionClear": true,
+      "rect": [
+        540,
+        1054,
+        200,
+        208
+      ]
+    },
+    {
+      "id": "bag",
+      "regionClear": true,
+      "rect": [
+        793,
+        1064,
+        204,
+        201
+      ]
+    },
+    {
+      "id": "sterne",
+      "regionClear": true,
+      "rect": [
+        39,
+        1309,
+        182,
+        181
+      ]
+    },
+    {
+      "id": "chest_closed",
+      "regionClear": true,
+      "rect": [
+        281,
+        1330,
+        209,
+        159
+      ]
+    },
+    {
+      "id": "chest_open",
+      "regionClear": true,
+      "rect": [
+        543,
+        1287,
+        204,
+        205
+      ]
+    },
+    {
+      "id": "hand",
+      "regionClear": true,
+      "rect": [
+        803,
+        1320,
+        187,
+        184
+      ]
+    }
+  ],
+  "image": "rbxassetid://98237999999525",
+  "sha256": "f1c882a0953aa87f3648a7f02065cf6f4aa557d8175ae88c793a6864ee3cb9c2"
+}

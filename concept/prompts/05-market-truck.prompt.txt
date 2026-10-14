@@ -1,0 +1,18 @@
+Use case: stylized-concept
+Asset type: recurring market truck character-vehicle concept for Homestead Tycoon: Luna Landing, a cozy Roblox homesteading game.
+
+Create one clear hero concept of a compact friendly produce truck that slowly circles the village road dispensing purchasable seed packets. This truck will become a recognizable recurring item source and receive seasonal event decorations. Design its everyday autumn base version first.
+
+Reference image role: approved geometry, palette, structural layering and matte surface style ONLY. Translate that style into a new vehicle, do not include the reference cottage, tree, beds or oversized jar.
+
+Vehicle: chunky slightly squat small delivery truck, a short rounded-angular hood, muted sage cab, dull cream roof, broad simple tinted windshield, two modest round headlights, substantial dull-metal bumper, four thick low-sided dark rubber wheels. Warm timber open-sided cargo bed with chunky corner posts and simple rails. A broad cream-and-muted-terracotta striped canopy made of a few plain panels on four sturdy posts. Practical compact wheelbase and clear ground clearance; a plausible lightweight Roblox vehicle built from a modest number of overlapping simple parts.
+
+Cargo: a few large wooden display compartments holding oversized readable paper seed packets. Packets have flat pepper, pumpkin, grape or apple pictograms, not text. A few grouped low-poly produce accents identify the produce-market role without clutter. An accessible simple rear dispensing shelf holds a packet; two neatly spaced packets on the road behind the truck suggest the drop trail. Seed packs should look like sealed paper envelopes, not sacks, gift boxes or collectible cards. Do not show free-pickup glow, price numbers or invented machinery.
+
+Event adaptability: keep the cab silhouette recognizable, with a clean replaceable sign panel above the cargo canopy bearing a simple seedling emblem, generous plain canopy panels, and sturdy corner posts that can carry future themed decorations. Only sparse everyday autumn accents now. No seasonal variants or inset panels, no Halloween decorations.
+
+Style: layered low-poly 3D achievable in Roblox Studio. Broad flat-shaded faces, deliberate facets, restrained bevels, solid matte colors, almost no textures. Structural depth through separate fenders, cab, bumper, cargo boards, posts and canopy; keep surfaces plain. Faded warm timber, muted sage and cream, dusty terracotta, concentrated brighter produce colors. Humble slightly imperfect proportions with early-console garden charm. Match the approved reference's level of charm and structural layering.
+
+Composition: one complete truck in a readable three-quarter view showing the front and open cargo side, with its rear packet trail visible. Center the full vehicle with breathing room, no cropped wheels or canopy. Simple warm neutral backdrop and short flat cream road strip beneath it, simple daylight and modest shadows, everything in focus. Landscape 3:2.
+
+Avoid text, logos with words, UI, people, extra vehicles, photorealism, wood grain, rust or weathering, tiny bolts, dense crates, elaborate cloth folds, glossy plastic, glass refraction, heavy ambient occlusion, bloom, cinematic lighting, depth-of-field blur, magical effects, intricate machinery or miniature-diorama polish.

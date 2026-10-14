@@ -1,0 +1,868 @@
+{
+  "children": [
+    {
+      "children": [],
+      "class": "TextLabel",
+      "name": "Heading",
+      "props": {
+        "TextColor3": [
+          "Color3",
+          [
+            247.00000047683716,
+            236.00000113248825,
+            211.00000262260437
+          ]
+        ],
+        "Text": [
+          "string",
+          "PEPPERS  0/4"
+        ],
+        "Font": [
+          "token",
+          19
+        ],
+        "BackgroundTransparency": [
+          "float",
+          1
+        ],
+        "Position": [
+          "UDim2",
+          [
+            0,
+            40,
+            0,
+            18
+          ]
+        ],
+        "TextSize": [
+          "float",
+          46
+        ],
+        "BackgroundColor3": [
+          "Color3",
+          [
+            163.00000548362732,
+            162.00000554323196,
+            165.00000536441803
+          ]
+        ],
+        "BorderSizePixel": [
+          "float",
+          1
+        ],
+        "Size": [
+          "UDim2",
+          [
+            0,
+            1020,
+            0,
+            65
+          ]
+        ]
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "class": "UICorner",
+          "name": "UICorner",
+          "props": {
+            "CornerRadius": [
+              "UDim",
+              [
+                1,
+                0
+              ]
+            ]
+          }
+        },
+        {
+          "children": [],
+          "class": "UIStroke",
+          "name": "UIStroke",
+          "props": {
+            "Color": [
+              "Color3",
+              [
+                234.00000125169754,
+                222.00000196695328,
+                193.00000369548798
+              ]
+            ],
+            "Thickness": [
+              "float",
+              5
+            ]
+          }
+        },
+        {
+          "children": [],
+          "class": "TextLabel",
+          "name": "Timer",
+          "props": {
+            "TextColor3": [
+              "Color3",
+              [
+                247.00000047683716,
+                236.00000113248825,
+                211.00000262260437
+              ]
+            ],
+            "Text": [
+              "string",
+              ""
+            ],
+            "Font": [
+              "token",
+              19
+            ],
+            "BackgroundTransparency": [
+              "float",
+              1
+            ],
+            "Position": [
+              "UDim2",
+              [
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            "TextSize": [
+              "float",
+              48
+            ],
+            "BackgroundColor3": [
+              "Color3",
+              [
+                163.00000548362732,
+                162.00000554323196,
+                165.00000536441803
+              ]
+            ],
+            "BorderSizePixel": [
+              "float",
+              1
+            ],
+            "Size": [
+              "UDim2",
+              [
+                1,
+                0,
+                1,
+                0
+              ]
+            ]
+          }
+        }
+      ],
+      "class": "Frame",
+      "name": "Slot1",
+      "props": {
+        "BackgroundTransparency": [
+          "float",
+          1
+        ],
+        "Position": [
+          "UDim2",
+          [
+            0,
+            77,
+            0,
+            100
+          ]
+        ],
+        "BackgroundColor3": [
+          "Color3",
+          [
+            40.00000141561031,
+            81.00000277161598,
+            108.00000116229057
+          ]
+        ],
+        "BorderSizePixel": [
+          "float",
+          0
+        ],
+        "Size": [
+          "UDim2",
+          [
+            0,
+            180,
+            0,
+            180
+          ]
+        ]
+      }
+    },
+    {
+      "children": [],
+      "class": "TextLabel",
+      "name": "Slot1State",
+      "props": {
+        "TextColor3": [
+          "Color3",
+          [
+            247.00000047683716,
+            236.00000113248825,
+            211.00000262260437
+          ]
+        ],
+        "Text": [
+          "string",
+          "Empty"
+        ],
+        "Font": [
+          "token",
+          19
+        ],
+        "BackgroundTransparency": [
+          "float",
+          1
+        ],
+        "Position": [
+          "UDim2",
+          [
+            0,
+            47,
+            0,
+            290
+          ]
+        ],
+        "TextSize": [
+          "float",
+          30
+        ],
+        "BackgroundColor3": [
+          "Color3",
+          [
+            163.00000548362732,
+            162.00000554323196,
+            165.00000536441803
+          ]
+        ],
+        "BorderSizePixel": [
+          "float",
+          1
+        ],
+        "Size": [
+          "UDim2",
+          [
+            0,
+            240,
+            0,
+            45
+          ]
+        ]
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "class": "UICorner",
+          "name": "UICorner",
+          "props": {
+            "CornerRadius": [
+              "UDim",
+              [
+                1,
+                0
+              ]
+            ]
+          }
+        },
+        {
+          "children": [],
+          "class": "UIStroke",
+          "name": "UIStroke",
+          "props": {
+            "Color": [
+              "Color3",
+              [
+                234.00000125169754,
+                222.00000196695328,
+                193.00000369548798
+              ]
+            ],
+            "Thickness": [
+              "float",
+              5
+            ]
+          }
+        },
+        {
+          "children": [],
+          "class": "TextLabel",
+          "name": "Timer",
+          "props": {
+            "TextColor3": [
+              "Color3",
+              [
+                247.00000047683716,
+                236.00000113248825,
+                211.00000262260437
+              ]
+            ],
+            "Text": [
+              "string",
+              ""
+            ],
+            "Font": [
+              "token",
+              19
+            ],
+            "BackgroundTransparency": [
+              "float",
+              1
+            ],
+            "Position": [
+              "UDim2",
+              [
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            "TextSize": [
+              "float",
+              48
+            ],
+            "BackgroundColor3": [
+              "Color3",
+              [
+                163.00000548362732,
+                162.00000554323196,
+                165.00000536441803
+              ]
+            ],
+            "BorderSizePixel": [
+              "float",
+              1
+            ],
+            "Size": [
+              "UDim2",
+              [
+                1,
+                0,
+                1,
+                0
+              ]
+            ]
+          }
+        }
+      ],
+      "class": "Frame",
+      "name": "Slot2",
+      "props": {
+        "BackgroundTransparency": [
+          "float",
+          1
+        ],
+        "Position": [
+          "UDim2",
+          [
+            0,
+            332,
+            0,
+            100
+          ]
+        ],
+        "BackgroundColor3": [
+          "Color3",
+          [
+            40.00000141561031,
+            81.00000277161598,
+            108.00000116229057
+          ]
+        ],
+        "BorderSizePixel": [
+          "float",
+          0
+        ],
+        "Size": [
+          "UDim2",
+          [
+            0,
+            180,
+            0,
+            180
+          ]
+        ]
+      }
+    },
+    {
+      "children": [],
+      "class": "TextLabel",
+      "name": "Slot2State",
+      "props": {
+        "TextColor3": [
+          "Color3",
+          [
+            247.00000047683716,
+            236.00000113248825,
+            211.00000262260437
+          ]
+        ],
+        "Text": [
+          "string",
+          "Empty"
+        ],
+        "Font": [
+          "token",
+          19
+        ],
+        "BackgroundTransparency": [
+          "float",
+          1
+        ],
+        "Position": [
+          "UDim2",
+          [
+            0,
+            302,
+            0,
+            290
+          ]
+        ],
+        "TextSize": [
+          "float",
+          30
+        ],
+        "BackgroundColor3": [
+          "Color3",
+          [
+            163.00000548362732,
+            162.00000554323196,
+            165.00000536441803
+          ]
+        ],
+        "BorderSizePixel": [
+          "float",
+          1
+        ],
+        "Size": [
+          "UDim2",
+          [
+            0,
+            240,
+            0,
+            45
+          ]
+        ]
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "class": "UICorner",
+          "name": "UICorner",
+          "props": {
+            "CornerRadius": [
+              "UDim",
+              [
+                1,
+                0
+              ]
+            ]
+          }
+        },
+        {
+          "children": [],
+          "class": "UIStroke",
+          "name": "UIStroke",
+          "props": {
+            "Color": [
+              "Color3",
+              [
+                234.00000125169754,
+                222.00000196695328,
+                193.00000369548798
+              ]
+            ],
+            "Thickness": [
+              "float",
+              5
+            ]
+          }
+        },
+        {
+          "children": [],
+          "class": "TextLabel",
+          "name": "Timer",
+          "props": {
+            "TextColor3": [
+              "Color3",
+              [
+                247.00000047683716,
+                236.00000113248825,
+                211.00000262260437
+              ]
+            ],
+            "Text": [
+              "string",
+              ""
+            ],
+            "Font": [
+              "token",
+              19
+            ],
+            "BackgroundTransparency": [
+              "float",
+              1
+            ],
+            "Position": [
+              "UDim2",
+              [
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            "TextSize": [
+              "float",
+              48
+            ],
+            "BackgroundColor3": [
+              "Color3",
+              [
+                163.00000548362732,
+                162.00000554323196,
+                165.00000536441803
+              ]
+            ],
+            "BorderSizePixel": [
+              "float",
+              1
+            ],
+            "Size": [
+              "UDim2",
+              [
+                1,
+                0,
+                1,
+                0
+              ]
+            ]
+          }
+        }
+      ],
+      "class": "Frame",
+      "name": "Slot3",
+      "props": {
+        "BackgroundTransparency": [
+          "float",
+          1
+        ],
+        "Position": [
+          "UDim2",
+          [
+            0,
+            587,
+            0,
+            100
+          ]
+        ],
+        "BackgroundColor3": [
+          "Color3",
+          [
+            40.00000141561031,
+            81.00000277161598,
+            108.00000116229057
+          ]
+        ],
+        "BorderSizePixel": [
+          "float",
+          0
+        ],
+        "Size": [
+          "UDim2",
+          [
+            0,
+            180,
+            0,
+            180
+          ]
+        ]
+      }
+    },
+    {
+      "children": [],
+      "class": "TextLabel",
+      "name": "Slot3State",
+      "props": {
+        "TextColor3": [
+          "Color3",
+          [
+            247.00000047683716,
+            236.00000113248825,
+            211.00000262260437
+          ]
+        ],
+        "Text": [
+          "string",
+          "Empty"
+        ],
+        "Font": [
+          "token",
+          19
+        ],
+        "BackgroundTransparency": [
+          "float",
+          1
+        ],
+        "Position": [
+          "UDim2",
+          [
+            0,
+            557,
+            0,
+            290
+          ]
+        ],
+        "TextSize": [
+          "float",
+          30
+        ],
+        "BackgroundColor3": [
+          "Color3",
+          [
+            163.00000548362732,
+            162.00000554323196,
+            165.00000536441803
+          ]
+        ],
+        "BorderSizePixel": [
+          "float",
+          1
+        ],
+        "Size": [
+          "UDim2",
+          [
+            0,
+            240,
+            0,
+            45
+          ]
+        ]
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "class": "UICorner",
+          "name": "UICorner",
+          "props": {
+            "CornerRadius": [
+              "UDim",
+              [
+                1,
+                0
+              ]
+            ]
+          }
+        },
+        {
+          "children": [],
+          "class": "UIStroke",
+          "name": "UIStroke",
+          "props": {
+            "Color": [
+              "Color3",
+              [
+                234.00000125169754,
+                222.00000196695328,
+                193.00000369548798
+              ]
+            ],
+            "Thickness": [
+              "float",
+              5
+            ]
+          }
+        },
+        {
+          "children": [],
+          "class": "TextLabel",
+          "name": "Timer",
+          "props": {
+            "TextColor3": [
+              "Color3",
+              [
+                247.00000047683716,
+                236.00000113248825,
+                211.00000262260437
+              ]
+            ],
+            "Text": [
+              "string",
+              ""
+            ],
+            "Font": [
+              "token",
+              19
+            ],
+            "BackgroundTransparency": [
+              "float",
+              1
+            ],
+            "Position": [
+              "UDim2",
+              [
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            "TextSize": [
+              "float",
+              48
+            ],
+            "BackgroundColor3": [
+              "Color3",
+              [
+                163.00000548362732,
+                162.00000554323196,
+                165.00000536441803
+              ]
+            ],
+            "BorderSizePixel": [
+              "float",
+              1
+            ],
+            "Size": [
+              "UDim2",
+              [
+                1,
+                0,
+                1,
+                0
+              ]
+            ]
+          }
+        }
+      ],
+      "class": "Frame",
+      "name": "Slot4",
+      "props": {
+        "BackgroundTransparency": [
+          "float",
+          1
+        ],
+        "Position": [
+          "UDim2",
+          [
+            0,
+            842,
+            0,
+            100
+          ]
+        ],
+        "BackgroundColor3": [
+          "Color3",
+          [
+            40.00000141561031,
+            81.00000277161598,
+            108.00000116229057
+          ]
+        ],
+        "BorderSizePixel": [
+          "float",
+          0
+        ],
+        "Size": [
+          "UDim2",
+          [
+            0,
+            180,
+            0,
+            180
+          ]
+        ]
+      }
+    },
+    {
+      "children": [],
+      "class": "TextLabel",
+      "name": "Slot4State",
+      "props": {
+        "TextColor3": [
+          "Color3",
+          [
+            247.00000047683716,
+            236.00000113248825,
+            211.00000262260437
+          ]
+        ],
+        "Text": [
+          "string",
+          "Empty"
+        ],
+        "Font": [
+          "token",
+          19
+        ],
+        "BackgroundTransparency": [
+          "float",
+          1
+        ],
+        "Position": [
+          "UDim2",
+          [
+            0,
+            812,
+            0,
+            290
+          ]
+        ],
+        "TextSize": [
+          "float",
+          30
+        ],
+        "BackgroundColor3": [
+          "Color3",
+          [
+            163.00000548362732,
+            162.00000554323196,
+            165.00000536441803
+          ]
+        ],
+        "BorderSizePixel": [
+          "float",
+          1
+        ],
+        "Size": [
+          "UDim2",
+          [
+            0,
+            240,
+            0,
+            45
+          ]
+        ]
+      }
+    }
+  ],
+  "class": "SurfaceGui",
+  "name": "Lettering",
+  "props": {
+    "CanvasSize": [
+      "Vector2",
+      [
+        1100,
+        420
+      ]
+    ],
+    "Face": [
+      "token",
+      2
+    ]
+  }
+}

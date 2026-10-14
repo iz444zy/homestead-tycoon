@@ -1,0 +1,17 @@
+Use case: stylized-concept
+Create a NEW spacious homestead layout concept for Homestead Tycoon: Luna Landing, a cozy Roblox farming game. This rethinks the previous narrow two-column property to support eventual player free placement and customization. Use the supplied image ONLY as a reference for layered low-poly assets and matte palette, NOT its composition.
+
+Single nearly square broad rectangular fenced property, shown complete from a high bird's-eye orthographic planning camera. North at top, south at bottom. Landscape 4:3 composition. Property must be substantially more spacious relative to its buildings and beds than a tightly packed garden. Keep individual objects modest in scale.
+
+Spatial arrangement:
+- Southern entrance slightly left of center opens onto a broad gently bending cream path that branches naturally.
+- Small cottage in northwest, welcoming porch facing south toward a small practical work courtyard. Compact preserving workbench against cottage, just a few useful props.
+- Separate modest timber-framed tree greenhouse in northeast, entrance opening west toward the garden path. Simple large glass panes.
+- Exactly EIGHT clearly separated raised growing areas TOTAL, clustered into three garden pockets occupying the western and northern-middle portions: THREE pepper/pumpkin beds in a loose L-shaped kitchen garden below the cottage; THREE grape/pepper/pumpkin beds in a staggered group between cottage and greenhouse; TWO beds further down the west side, one containing a single apple tree occupying that entire bed and one growing pumpkins. Each bed is distinct and countable. Keep sufficient walking gaps around each and avoid overlapping canopies obscuring other beds.
+- Small unframed dirt digging patch near southern entrance, distinctly different from the eight timber growing beds.
+- The ENTIRE southeastern third of the property is a generous uninterrupted grassy customization meadow, approximately 35 percent of usable interior land. It is fully INSIDE the fence and clearly belongs to the player. Leave this lawn EMPTY and accessible, no trees, ponds, beds, furniture, props, buildings or paths cutting across its middle. One path reaches its edge. This is usable room for the player's future creative arrangements, not decorative filler.
+- Paths connect gate, cottage, garden clusters and greenhouse efficiently without bisecting the open meadow. Leave room for cottage expansion. Sparse perimeter accents only. No giant landscaping objects consuming build space.
+
+This is an asymmetrical, inviting buildable homestead with garden pockets and room to breathe. Clear boundary, all objects within it, exactly eight beds plus separate buildings. Show the scale relationship honestly, do not fill every gap. No text, labels, diagram arrows, UI, people, trucks or extra structures.
+
+Approved visual language: layered low-poly 3D achievable in Roblox Studio; chunky simple overlapping parts, broad flat-shaded faces, economical bevels, plain matte materials, almost no surface texture. Cottage has roof thickness, eaves, framed inset windows, porch posts and steps. Trees have branching trunks and a few faceted canopy clumps. Crops have broad leaves and prominent produce. Faded warm timber, dull cream paths, muted terracotta roofs, dark brown soil, healthy dusty greens and brighter crop colors. Simple daylight and modest shadows, everything in focus. No wood grain, individual shingles, dense tiny plants, tiny hardware, modeled gravel, glossy glass, cinematic lighting, bloom or depth of field.

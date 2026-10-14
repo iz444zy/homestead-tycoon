@@ -1,0 +1,45 @@
+{
+  "welcomeLogo": {
+    "source": "concept/pngs/03-cottage-sign-logo-v3.png",
+    "robloxImage": "rbxassetid://76464012414224",
+    "sha256": "ef486f8997d090e186d1a37ba4dbb59c2cefed14b1acfed9592a73817020251e",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "note": "Exact approved artwork; upload explicitly authorized by user."
+  },
+  "sterneCoin": {
+    "source": "concept/pngs/15-sterne-star-coin.png",
+    "variant": "C",
+    "preparedIcon": "studio/assets/sterne-c-icon-v2.png",
+    "robloxImage": "rbxassetid://79465188173312",
+    "sha256": "d20de7d15e2df8e941652329d7a4f7efe74aed4613b6ddd161379da72c378d3f",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "note": "Approved Option C coin, uploaded and used on the dig sign."
+  },
+  "pepperFruitIcon": {
+    "source": "studio/assets/pepper-fruit-icon.png",
+    "robloxImage": "rbxassetid://94516029859579",
+    "sha256": "94cd3c80629142a1ca205a2fc55420356d524a835e93f108ce30c8c477b2eacf",
+    "dimensions": [
+      1286,
+      1223
+    ],
+    "note": "Transparent low-poly bell pepper icon for the planter indicator circles."
+  },
+  "pepperSeedProposal": {
+    "source": "concept/pngs/11-seed-pack-designs.png",
+    "preparedIcon": "studio/assets/pepper-seed-pack-proposal.png",
+    "status": "Proposal shown; pending choice between exact packet and bell-pepper icon without quantity badge."
+  },
+  "pepperSeedPreview": {
+    "preparedIcon": "studio/assets/pepper-seed-icon-preview.png",
+    "robloxImage": "rbxassetid://70460576376188",
+    "sha256": "32be0a5ba2ada55c62ebfd723edd2c3618e8d88b3a670c62b9b823c753e99e3b",
+    "status": "Reversible UI preview awaiting art review; bell-pepper identity, no quantity badge. Not a locked approved style reference."
+  }
+}

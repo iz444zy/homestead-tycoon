@@ -1,0 +1,18 @@
+Use case: stylized-concept
+Create a compact layered low-poly 3D style-validation scene for “Homestead Tycoon: Luna Landing,” achievable in Roblox Studio. Show one small timber cottage, one apple tree in its own raised growing area, one separate raised bed containing peppers and pumpkins, and one oversized preserve jar displayed separately as a material study.
+
+Use chunky, slightly squat forms assembled from a modest number of overlapping geometric parts. Broad flat-shaded faces, deliberate facets, economical bevels, solid matte colors, and almost no surface texture. Capture the humble, slightly scruffy charm of early-console garden games.
+
+Cottage: Separate foundation, plain walls, broad pitched roof with visible thickness and overhanging eaves, recessed door, simple window frames, porch platform, thick posts, and broad steps. Keep roof sections large and plain.
+
+Apple tree: Angular tapered trunk splitting into a few branches, several overlapping faceted canopy clusters, and chunky red apples clearly visible along the outer and lower edges.
+
+Raised bed and crops: Thick plain timber borders with recessed dark soil. Peppers have upright stems, a few broad pointed leaves, and visible hanging fruit. Pumpkins have low spreading foliage, a few large polygonal leaves, and squat orange fruit with broad lobes and thick stems.
+
+Preserve jar: Low-sided body, simple shoulder, thick rim, oversized plain lid, opaque purple contents, and one flat fruit-symbol label. Keep its construction as simple as the garden assets.
+
+Use faded warm timber, dull cream paths, muddy brown soil, healthy dusty greens, muted terracotta, and brighter produce accents. Slight asymmetry gives personality; the garden remains healthy and welcoming.
+
+Warm neutral background, three-quarter orthographic view, clear spacing, complete object silhouettes, simple daylight, and modest shadows. Keep everything in focus and readable at gameplay distance. Landscape 16:9. No text or UI.
+
+Avoid: Wood grain, bark texture, individual shingles, individual canopy leaves, tiny fasteners, dense flowers, modeled pebbles, elaborate trim, glass refraction, glossy plastic, heavy ambient occlusion, cinematic lighting, bloom, depth-of-field blur, magical effects, or miniature-diorama polish. Avoid featureless single-block objects. Interest must come from proportions and structural layering; surfaces stay plain.

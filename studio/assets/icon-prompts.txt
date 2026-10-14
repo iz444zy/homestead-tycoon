@@ -1,0 +1,7 @@
+Built-in imagegen edits, transparent_background=true.
+
+Sterne C: Extract only the top-right front-facing octagonal muted matte brass/ochre coin, preserving angular geometry, inset star, proportions, colors and bevels. Remove all other coins, lettering, background and floor shadow. Single isolated coin on transparent background.
+
+Pepper proposal: Extract only the top-left small tan pepper seed packet, preserving low-poly paper shape, folded top, red pepper illustration and cream badge containing 4. Remove other packets, backdrop and cast shadow. Single isolated packet on transparent background.
+
+Bell-pepper seed preview: Keep the same paper bag silhouette, folded top, tan matte low-poly shading, slight side perspective and transparent background. Replace only the curved thin chili pepper with one squat chunky red bell pepper, broad shoulders, three blunt lobes, small dark green calyx and short green stem, in matching low-poly flat-faceted matte style. Remove cream quantity badge and numeral 4 entirely, filling with coherent tan bag surface. No text, quantities, shadows outside bag or extra objects.
